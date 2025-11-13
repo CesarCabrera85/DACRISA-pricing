@@ -1,0 +1,7 @@
+{
+  "name": " Dacrisa Pricing App",
+  "description": "An intelligent pricing application for Dacrisa that automates customer classification using Google Maps and Gemini AI to ensure accurate, role-based pricing for sales representatives. The app manages products from a catalog, tracks price history, and provides distinct interfaces for admin and sales roles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
